@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1023167374012",
+    "firebase_url": "https://flash-chat-baca3.firebaseio.com",
+    "project_id": "flash-chat-baca3",
+    "storage_bucket": "flash-chat-baca3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023167374012:android:10856d709dcb20e19ca6b9",
+        "android_client_info": {
+          "package_name": "com.namanagrawal.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023167374012-91rfv1s4mj25lahv7rbskhkb7cscn610.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnKtsL4oE4lV8qDyVMFFXft1p6Eg2th74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023167374012-91rfv1s4mj25lahv7rbskhkb7cscn610.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
